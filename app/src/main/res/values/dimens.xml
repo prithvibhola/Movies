@@ -1,0 +1,16 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--FRAGMENTS-->
+    <!--fragment_movie_detail-->
+    <dimen name="fragment_movie_poster_height">220dp</dimen>
+    <dimen name="fragment_movie_poster_collapse_height">140dp</dimen>
+
+    <!--ACTIVITIES-->
+    <!--activity_about-->
+    <dimen name="icon_margin_top_portrait">230dp</dimen>
+    <dimen name="icon_margin_top_landscape">120dp</dimen>
+
+</resources>

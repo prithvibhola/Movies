@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Movies</string>
+
+    <!--Activities-->
+    <string name="detail_movie_activity">DetailMovie</string>
+    <string name="about_activity">About</string>
+
+    <!--Main_menu-->
+    <string name="about">About</string>
+
+    <!--Fab items-->
+    <string name="popular">Popular</string>
+    <string name="highestRated">Highest Rated</string>
+    <string name="favourite">Favourite</string>
+
+    <!--XML Files-->
+    <!--activity_about-->
+    <string name="movies">Movies</string>
+    <string name="description1">Movies is developed as a project for the Udacity\'s Android Nanodegree course.</string>
+    <string name="description2">Movies fetches data from themoviedb.org to get movie data and images.</string>
+    <string name="developer">Movies is written by Prithvi Bhola.</string>
+    <string name="google">Google+</string>
+    <string name="github">The source code is available on Github</string>
+
+    <!--holder_movie_details-->
+    <string name="popular1">POPULAR</string>
+    <string name="rating">RATING</string>
+    <string name="share">SHARE</string>
+
+    <!--fragment_no_connection-->
+    <string name="no_connection">No Connection!</string>
+    <string name="connection_confirm">Please make sure that you are connected to the internet.</string>
+
+    <!--fragment_favourite_movies-->
+    <string name="liked_movies">Your liked movies appear here.</string>
+
+    <!--Activities-->
+
+    <!--MovieDetailAdapter-->
+    <string name="duration">Duration:</string>
+    <string name="hour">hr</string>
+    <string name="minutes">min</string>
+    <string name="genre">Genre:</string>
+    <string name="language">Language:</string>
+    <string name="share_via">Share via</string>
+    <string name="watch">Watch</string>
+    <string name="releasing_on">Releasing on</string>
+
+    <!--Fragments-->
+    <!--MovieDetailFragment-->
+    <string name="removed">Removed</string>
+    <string name="liked">Liked</string>
+    <string name="heart">\u2764</string>
+
+</resources>

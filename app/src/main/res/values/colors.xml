@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--System Color-->
+    <color name="colorPrimary">#434343</color>
+    <color name="colorPrimaryDark">#333333</color>
+    <color name="colorAccent">#25C6DA</color>
+
+    <color name="colorAboutStatus">#f4f4f4</color>
+
+    <!--Text Color-->
+    <color name="textColorWhite">#FFFFFF</color>
+    <color name="textColorBlack">#000000</color>
+    <color name="movieDetailText">#9B9B9B</color>
+    <color name="movieDetailTextDark">#838383</color>
+
+    <color name="likePink">#F06292</color>
+    <color name="movieTitleBackground">#F5F5F5</color>
+    <color name="movieDetailLine">#cecece</color>
+
+    <color name="iconsColor">#838383</color>
+
+    <color name="colorHighlight">#f1f1f1</color>
+
+    <color name="circleColor1">#25C6DA</color>
+    <color name="circleColor2">#81C783</color>
+    <color name="circleColor3">#AED581</color>
+    <color name="circleColor4">#4DB6AC</color>
+
+    <color name="red">#ff5858</color>
+    <color name="yellow">#ffc800</color>
+
+
+</resources>
